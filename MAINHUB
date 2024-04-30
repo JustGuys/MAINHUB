@@ -71,7 +71,7 @@ Tab:AddButton({
             wait(2)
             OrionLib:MakeNotification({
                 Name = "Incorrect Key!",
-                Content = "The key you entered is incorrect.",
+                Content = "DISCORD.GG/GUYSMODZ FOR UPDATED KEY",
                 Image = "rbxassetid://4483345998",
                 Time = 5
             })
